@@ -97,39 +97,5 @@
 
 ###
 
-<img align="right" height="184" src="https://github.com/saraniz/saraniz/blob/fc7a52195142968ac5147ee81b2fb0f3f92f5e62/9ep35y
+<img align="right" height="184" src="[https://github.com/saraniz/saraniz/blob/fc7a52195142968ac5147ee81b2fb0f3f92f5e62/9ep35y](https://pin.it/5RQy5HEsT)">
 
-name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
