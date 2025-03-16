@@ -1,5 +1,5 @@
 <h2 align="center">
-<img align="center" width="1000" height="https://pin.it/50uU43Ew4">
+<img align="center" width="1000" height="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif">
 </h2>
 
 <h2 align="center">Hey It's Amie...💫 👨‍💻</h2>
