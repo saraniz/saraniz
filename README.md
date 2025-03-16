@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" alt="Header Image" width="100%">
+<img align="center" height="100" src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif">
 </h2>
 
 <h2 align="center">Hey It's Amie...💫 👨‍💻</h2>
