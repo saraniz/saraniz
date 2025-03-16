@@ -1,5 +1,5 @@
 <h2 align="center">
-<img align="center" width="1000" height="300" src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif">
+<img align="center" width="1000" height="300" src="https://pin.it/4l5KaOeHD">
 </h2>
 
 <h2 align="center">Hey It's Amie...💫 👨‍💻</h2>
