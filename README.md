@@ -73,4 +73,3 @@
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
 </div>
 
-<a href="https://app.daily.dev/amiez"><img src="https://api.daily.dev/devcards/v2/p7k47oqveOjGLVuXO5PR4.png?type=wide&r=p2e" width="652" alt="Amie's Dev Card"/></a>
