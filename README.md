@@ -17,6 +17,8 @@
 
 ###
 
+<a href="https://app.daily.dev/amiez"><img src="https://api.daily.dev/devcards/v2/p7k47oqveOjGLVuXO5PR4.png?type=wide&r=p2e" width="652" alt="Amie's Dev Card"/></a>
+
 <!-- Skill Icons Section -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
