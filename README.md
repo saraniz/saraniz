@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 About Me:<br><br>🎓 Bachelor of Computing (Honours) in Software Engineering student at University of Sri Jayewardenepura.<br><br>💻 Passionate about software development, coding, and problem-solving.<br><br>🌱 Actively learning and working with web development, PHP, Laravel, JavaScript, and Node.js<br><br>🧑‍💻 Focused on building innovative solutions and collaborating on exciting projects.</p>
+<p align="left">🚀 About Me:<br><br>🎓 Bachelor of Computing (Honours) in Software Engineering student at University of Sri Jayewardenepura.<br><br>💻 Passionate about software development, coding, and problem-solving.<br><br>🌱 Actively learning and working with web development, Vue, Angular, Next.js, JavaScript, Node.js, and Machine Learning at NUST.<br><br>🧑‍💻 Focused on building innovative solutions and collaborating on exciting projects.</p>
 
 ###
 
@@ -69,4 +69,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
