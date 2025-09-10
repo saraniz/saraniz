@@ -1,6 +1,6 @@
 <!-- GIF at the top -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0e/4a/b5/0e4ab58b389c553ccebacb55e74977cf.gif" alt="Intro GIF" height="150"/>
+  <img src="https://i.pinimg.com/originals/0e/4a/b5/0e4ab58b389c553ccebacb55e74977cf.gif" alt="Intro GIF" height="250" width="500"/>
 </p>
 
 <h2 align="center">Hey It's Amie...💫 👨‍💻</h2>
