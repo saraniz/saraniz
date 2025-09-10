@@ -1,6 +1,6 @@
 <!-- GIF at the top -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0e/4a/b5/0e4ab58b389c553ccebacb55e74977cf.gif" alt="Intro GIF" />
+  <img src="https://i.pinimg.com/originals/0e/4a/b5/0e4ab58b389c553ccebacb55e74977cf.gif" alt="Intro GIF" height="150"/>
 </p>
 
 <h2 align="center">Hey It's Amie...💫 👨‍💻</h2>
@@ -113,12 +113,6 @@
 <img src="https://raw.githubusercontent.com/saraniz/saraniz/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saraniz/saraniz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saraniz/saraniz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saraniz/saraniz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
