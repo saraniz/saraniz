@@ -116,14 +116,11 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+### 📝 Latest Blog Post
+
+📖 **[Understanding JWT: A Simple Guide to JSON Web Tokens](https://codecoffeee.hashnode.dev/understanding-jwt-a-simple-guide-to-json-web-tokens)**
+
+![JWT Guide](https://codecoffeee.hashnode.dev/api/cover/understanding-jwt-a-simple-guide-to-json-web-tokens)
+
+Dive into the world of JSON Web Tokens with this comprehensive guide. Learn about their structure, how they work, and best practices for implementation in modern web applications.
 </div>
