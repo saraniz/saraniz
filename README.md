@@ -9,10 +9,11 @@
 
 <p align="left">
 🚀 About Me:<br><br>
-🎓 Bachelor of Computing (Honours) in Software Engineering student at University of Sri Jayewardenepura.<br><br>
-💻 Passionate about software development, coding, and problem-solving.<br><br>
-🌱 Actively learning and working with Next.js, Java, React-Native, Spring Boot, Data Engineering, and DevOps<br><br>
-🧑‍💻 Focused on building innovative solutions and collaborating on exciting projects.
+🎓 Final-year Bachelor of Computing (Honours) in Software Engineering undergraduate at the University of Sri Jayewardenepura.<br><br>
+🤖 Passionate about Artificial Intelligence, Machine Learning, MLOps, DevOps, and Full-Stack Development.<br><br>
+💻 Experienced with React, React Native, Next.js, Node.js, Express, Spring Boot, Tailwind CSS, Redux, Zustand, Java, JavaScript, TypeScript, Python, and C++.<br><br>
+🌱 Currently building production-ready ML systems while learning CI/CD, model deployment, experiment tracking, model monitoring, cloud-native architectures, and modern MLOps practices.<br><br>
+🧑‍💻 Focused on developing scalable, real-world applications that solve meaningful problems and continuously expanding my technical expertise.
 </p>
 
 ###
